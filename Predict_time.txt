@@ -1,0 +1,46 @@
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Arm(iPad)_resize.jpg
+--- 20.810089588165283 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  ATM(iPad)_resize.jpg
+--- 264.2399756908417 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Book(iPad)_resize.jpg
+--- 688.6650156974792 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Bucket(iPad)_resize.jpg
+--- 160.82775020599365 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Field(iPad)_resize.jpg
+--- 85.37635540962219 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Opposite(iPad)_resize.jpg
+--- 14.110146760940552 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Shirt(iPad)_resize.jpg
+--- 86.07389569282532 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Sky(iPad)_resize.jpg
+--- 55.00462508201599 seconds ---
+Finish Convert Image
+Finish Prediction
+Finish Write Image
+Finish :  Snack(iPad)_resize.jpg
+--- 261.2215197086334 seconds ---
+Finish Augment 9 Images in 1636.3293738365173
