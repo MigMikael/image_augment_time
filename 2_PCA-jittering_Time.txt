@@ -1,0 +1,69 @@
+Finish 0 : Opposite(iPad)_resize.jpg at 23.777750730514526 sec
+--- 23.777750730514526 seconds ---
+
+Finish 1 : ATM(iPad)_resize.jpg at 47.32531380653381 sec
+--- 23.547563076019287 seconds ---
+
+Finish 2 : Snack(iPad)_resize.jpg at 74.2518630027771 sec
+--- 26.926549196243286 seconds ---
+
+Finish 3 : Bucket(iPad)_resize.jpg at 101.3492841720581 sec
+--- 27.097421169281006 seconds ---
+
+Finish 4 : Arm(iPad)_resize.jpg at 128.2802312374115 sec
+--- 26.930947065353394 seconds ---
+
+Finish 5 : Book(iPad)_resize.jpg at 153.64294838905334 sec
+--- 25.362717151641846 seconds ---
+
+Finish 6 : Field(iPad)_resize.jpg at 179.0083134174347 sec
+--- 25.365365028381348 seconds ---
+
+Finish 7 : Sky(iPad)_resize.jpg at 203.86052560806274 sec
+--- 24.85221219062805 seconds ---
+
+Finish 8 : Shirt(iPad)_resize.jpg at 230.29974341392517 sec
+--- 26.439217805862427 seconds ---
+
+Total Augment Time :   230.29974341392517
+Total Images Augmented :  9
+Avg augmentation time per image = 25.58886037932502 seconds
+Finish
+
+
+
+
+Finish 0 : 07488.png at 0.014961957931518555 sec
+--- 0.014961957931518555 seconds ---
+
+Finish 1000 : 06838.png at 14.819140195846558 sec
+--- 0.013717889785766602 seconds ---
+
+Finish 2000 : 08225.png at 28.995678901672363 sec
+--- 0.01583719253540039 seconds ---
+
+Finish 3000 : 08242.png at 43.29061031341553 sec
+--- 0.015229940414428711 seconds ---
+
+Finish 4000 : 07599.png at 57.796608209609985 sec
+--- 0.013514041900634766 seconds ---
+
+Finish 5000 : 09381.png at 72.60436701774597 sec
+--- 0.013024091720581055 seconds ---
+
+Finish 6000 : 06846.png at 89.77576804161072 sec
+--- 0.026508808135986328 seconds ---
+
+Finish 7000 : 00607.png at 108.70467948913574 sec
+--- 0.013921976089477539 seconds ---
+
+Finish 8000 : 00660.png at 123.94690155982971 sec
+--- 0.014635086059570312 seconds ---
+
+Finish 9000 : 00288.png at 138.06513118743896 sec
+--- 0.015208244323730469 seconds ---
+
+Total Augment Time :   151.63585448265076
+Total Images Augmented :  10000
+Avg augmentation time per image = 0.015163585448265076 seconds
+

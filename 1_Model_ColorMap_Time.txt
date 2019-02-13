@@ -1,0 +1,67 @@
+Finish 0 : Arm(iPad)_resize.jpg at 2.008847236633301 sec
+--- 2.008847236633301 seconds ---
+
+Finish 1 : ATM(iPad)_resize.jpg at 4.101941823959351 sec
+--- 2.09309458732605 seconds ---
+
+Finish 2 : Book(iPad)_resize.jpg at 6.2026777267456055 sec
+--- 2.100735902786255 seconds ---
+
+Finish 3 : Bucket(iPad)_resize.jpg at 8.325640201568604 sec
+--- 2.122962474822998 seconds ---
+
+Finish 4 : Field(iPad)_resize.jpg at 10.407583236694336 sec
+--- 2.0819430351257324 seconds ---
+
+Finish 5 : Opposite(iPad)_resize.jpg at 12.480733871459961 sec
+--- 2.073150634765625 seconds ---
+
+Finish 6 : Shirt(iPad)_resize.jpg at 14.605261087417603 sec
+--- 2.1245272159576416 seconds ---
+
+Finish 7 : Sky(iPad)_resize.jpg at 16.680581092834473 sec
+--- 2.07532000541687 seconds ---
+
+Finish 8 : Snack(iPad)_resize.jpg at 18.76730990409851 sec
+--- 2.086728811264038 seconds ---
+
+Total Augment Time :   18.76730990409851
+Total Images Augmented :  9
+Avg augmentation time per image = 2.085256656010946 seconds
+
+
+
+
+Finish 0 : 07488.png at 0.009076118469238281 sec
+--- 0.009076118469238281 seconds ---
+
+Finish 1000 : 06838.png at 2.9878790378570557 sec
+--- 0.003149747848510742 seconds ---
+
+Finish 2000 : 08225.png at 5.693089723587036 sec
+--- 0.003579854965209961 seconds ---
+
+Finish 3000 : 08242.png at 8.771554470062256 sec
+--- 0.0034291744232177734 seconds ---
+
+Finish 4000 : 07599.png at 11.567131519317627 sec
+--- 0.003545999526977539 seconds ---
+
+Finish 5000 : 09381.png at 14.242580890655518 sec
+--- 0.0019578933715820312 seconds ---
+
+Finish 6000 : 06846.png at 17.36886215209961 sec
+--- 0.002650022506713867 seconds ---
+
+Finish 7000 : 00607.png at 20.197511196136475 sec
+--- 0.002653837203979492 seconds ---
+
+Finish 8000 : 00660.png at 22.634514808654785 sec
+--- 0.002607107162475586 seconds ---
+
+Finish 9000 : 00288.png at 25.191423654556274 sec
+--- 0.00409698486328125 seconds ---
+
+Total Augment Time :   29.000360012054443
+Total Images Augmented :  10000
+Avg augmentation time per image = 0.0029000360012054445 seconds

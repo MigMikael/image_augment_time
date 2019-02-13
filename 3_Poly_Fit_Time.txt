@@ -1,0 +1,67 @@
+Finish :  Opposite(iPad)_resize.jpg
+--- 10.735256910324097 seconds ---
+
+Finish :  ATM(iPad)_resize.jpg
+--- 11.238370895385742 seconds ---
+
+Finish :  Snack(iPad)_resize.jpg
+--- 11.462882041931152 seconds ---
+
+Finish :  Bucket(iPad)_resize.jpg
+--- 11.020149946212769 seconds ---
+
+Finish :  Arm(iPad)_resize.jpg
+--- 10.040772199630737 seconds ---
+
+Finish :  Book(iPad)_resize.jpg
+--- 13.42940902709961 seconds ---
+
+Finish :  Field(iPad)_resize.jpg
+--- 11.513211250305176 seconds ---
+
+Finish :  Sky(iPad)_resize.jpg
+--- 10.157596826553345 seconds ---
+
+Finish :  Shirt(iPad)_resize.jpg
+--- 9.90379524230957 seconds ---
+
+Total Augment Time :   99.5014443397522
+Total Images Augmented :  9
+Avg augmentation time per image = 11.055716037750244 seconds
+
+
+
+
+Finish :  07488.png
+--- 0.027683258056640625 seconds ---
+
+Finish :  06838.png
+--- 0.011700868606567383 seconds ---
+
+Finish :  08225.png
+--- 0.01367497444152832 seconds ---
+
+Finish :  08242.png
+--- 0.011688947677612305 seconds ---
+
+Finish :  07599.png
+--- 0.011740922927856445 seconds ---
+
+Finish :  09381.png
+--- 0.010379791259765625 seconds ---
+
+Finish :  06846.png
+--- 0.01242685317993164 seconds ---
+
+Finish :  00607.png
+--- 0.022137165069580078 seconds ---
+
+Finish :  00660.png
+--- 0.011811971664428711 seconds ---
+
+Finish :  00288.png
+--- 0.010913848876953125 seconds ---
+
+Total Augment Time :   119.87458229064941
+Total Images Augmented :  10000
+Avg augmentation time per image = 0.011987458229064942 seconds

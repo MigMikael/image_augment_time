@@ -1,2 +1,7 @@
 iPadtoMotoC_color_map.txt
 image_rgb_file2.txt
+MotoC_iPad_plus_train_data_7.txt
+test/
+test_colormap/
+test_pcaj/
+test_polyfit/
